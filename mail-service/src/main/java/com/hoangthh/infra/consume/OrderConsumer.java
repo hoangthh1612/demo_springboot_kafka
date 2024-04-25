@@ -1,4 +1,4 @@
-package com.hoangthh.service;
+package com.hoangthh.infra.consume;
 
 import com.hoangthh.dto.EventOrder;
 import org.slf4j.Logger;
