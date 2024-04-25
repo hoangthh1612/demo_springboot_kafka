@@ -1,4 +1,4 @@
-package com.hoangthh.dto;
+package com.hoangthh.infra.consume.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
