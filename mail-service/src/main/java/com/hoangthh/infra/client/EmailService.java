@@ -1,4 +1,4 @@
-package com.hoangthh.service;
+package com.hoangthh.infra.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

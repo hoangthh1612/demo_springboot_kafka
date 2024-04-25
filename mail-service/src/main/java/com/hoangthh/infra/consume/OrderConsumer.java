@@ -1,6 +1,7 @@
-package com.hoangthh.service;
+package com.hoangthh.infra.consume;
 
 import com.hoangthh.dto.EventOrder;
+import com.hoangthh.infra.client.EmailService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
